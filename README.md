@@ -1,0 +1,1 @@
+This example demonstrates a common pitfall in VBScript related to the use of the "ByRef" keyword with primitive data types.  In many other languages, passing primitives by reference would create a copy.  However, in VBScript this is not the case and it can lead to subtle and hard-to-find bugs.
